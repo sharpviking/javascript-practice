@@ -1,0 +1,25 @@
+Difference between pseudo class and pseudo element--
+
+#####
+
+We use ":" for pseudo class and "::" for pseudo element selectors.
+##### 
+
+
+
+#########
+##refrences vs values----##
+When we copy from any premitive or "let"/"var" , we copy there value,
+but when we copy from any object, we copy from their memory address.
+
+***pritives are copied by their value.
+***objects are copied by their refrence.
+
+
+###value Types                ###Refrence Types
+Number,                       Object,
+String,                       Function,
+Boolean,                      Array
+symbol,
+Undefined,
+null,
