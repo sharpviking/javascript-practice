@@ -1,0 +1,2 @@
+Avoid using the var keyword, because it creates variables
+that are function scoped not blocked scoped.
