@@ -1,0 +1,6 @@
+###Hoisting in javascript is moving all function expression on top side.####
+
+
+#%# Hoisting is the process of moving function declaration to the top of the file. 
+
+###Rest parameter must be last formal parameter.### 
