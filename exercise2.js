@@ -6,4 +6,4 @@ function isLandScape(width, height) {
     return (width > height);
 }
 
-console.log(isLandScape(06, 12));
+console.log(isLandScape(16, 12));
