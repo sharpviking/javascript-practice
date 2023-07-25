@@ -1,4 +1,3 @@
-showPrimes(20);
 
 function showPrimes(limit) {
     for (let number = 2; number <= limit; number++)
@@ -13,4 +12,4 @@ function isprime(number) {
     return true;
 }
 
-
+showPrimes(20);

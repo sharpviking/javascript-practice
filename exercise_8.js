@@ -34,6 +34,6 @@ function addition(limit) {
             add += i;
         }
     }
-    return addition;
+    return add;
 }
 addition(13);
