@@ -9,3 +9,10 @@ b = c;
 
 console.log(a);
 console.log(b);
+
+let d = 'pink';
+let e = "orange";
+
+let f = d;
+d = e;
+e = f
