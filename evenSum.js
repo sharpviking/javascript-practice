@@ -28,4 +28,3 @@ function sumofEvenNumbers1(arr) {
     return sum;
 }
 
-let 
